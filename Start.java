@@ -7,7 +7,7 @@ public class Start {
         int lancamento = 2006;
         double nota = 8.9;
         double mediaNota = (8.9 + 7.5 + 9.1) / 3;
-        boolean plano = true;
+        boolean assinante = true;
 
         String msg = """
                 Filme: %s
